@@ -1,6 +1,6 @@
 package Compare::Directory;
 
-$Compare::Directory::VERSION = '1.17';
+$Compare::Directory::VERSION = '1.18';
 
 =head1 NAME
 
@@ -8,10 +8,11 @@ Compare::Directory - Interface to compare directories.
 
 =head1 VERSION
 
-Version 1.17
+Version 1.18
 
 =cut
 
+use strict; use warnings;
 use Data::Dumper;
 
 use CAM::PDF;

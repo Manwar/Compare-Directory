@@ -1,5 +1,8 @@
 Revision history for Compare-Directory
 
+1.18  Sun Sep 28 17:42:55 2014
+      - Added missing 'uae strict; use warnings;'
+
 1.17  Sun Sep 28 12:37:20 2014
       - Added secction "REPOSITORY" to the pod document.
       - Added key "META_MERGE" to Makefile.PL file.
