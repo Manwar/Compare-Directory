@@ -1,5 +1,10 @@
 Revision history for Compare-Directory
 
+1.19  Fri Jan 16 15:30:00 2015
+      - Removed SIGNATURE file.
+      - Updated MANIFEST.SKIP file to ignore folder 'eumm/'.
+      - Updated Copyright year information.
+
 1.18  Sun Sep 28 17:42:55 2014
       - Added missing 'use strict; use warnings;'
 

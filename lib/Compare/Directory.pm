@@ -1,6 +1,6 @@
 package Compare::Directory;
 
-$Compare::Directory::VERSION = '1.18';
+$Compare::Directory::VERSION = '1.19';
 
 =head1 NAME
 
@@ -8,7 +8,7 @@ Compare::Directory - Interface to compare directories.
 
 =head1 VERSION
 
-Version 1.18
+Version 1.19
 
 =cut
 
@@ -245,7 +245,7 @@ L<http://search.cpan.org/dist/Compare-Directory/>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright (C) 2010 - 2014 Mohammad S Anwar.
+Copyright (C) 2010 - 2015 Mohammad S Anwar.
 
 This  program  is  free software; you can redistribute it and/or modify it under
 the  terms  of the the Artistic License (2.0). You may obtain a copy of the full

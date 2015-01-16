@@ -2,7 +2,6 @@ MANIFEST
 MANIFEST.SKIP
 Makefile.PL
 Changes
-SIGNATURE
 README
 lib/Compare/Directory.pm
 t/00-load.t
