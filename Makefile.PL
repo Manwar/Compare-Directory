@@ -13,7 +13,7 @@ WriteMakefile(
     CONFIGURE_REQUIRES => {
         'ExtUtils::MakeMaker' => 0,
     },
-    BUILD_REQUIRES => {
+    BUILD_REQUIRES   => {
         'Test::More' => 0,
         'Test::Deep' => 0,
     },
@@ -22,7 +22,7 @@ WriteMakefile(
         'CAM::PDF'          => '1.52',
         'File::Compare'     => '1.1003',
         'XML::SemanticDiff' => '1.0',
-        'Text::PDF'         => 0,
+        'Text::PDF'         => '0.29',
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Compare-Directory-*' },
