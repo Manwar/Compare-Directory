@@ -18,7 +18,7 @@ WriteMakefile(
         'Test::Deep' => 0,
     },
     PREREQ_PM => {
-        'Test::Excel'       => '1.28',
+        'Test::Excel'       => '1.35',
         'CAM::PDF'          => '1.52',
         'File::Compare'     => '1.1003',
         'XML::SemanticDiff' => '1.0',
