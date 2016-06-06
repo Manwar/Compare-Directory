@@ -1,4 +1,8 @@
-Revision history for Compare-Directory
+Revision history for Compare::Directory
+
+1.22  Mon Jun 06 13:35:00 2016
+      - Added missing prereq as reported by CPANTS.
+      - Updated copyright year information.
 
 1.21  Fri Jul 31 12:00:00 2015
       - Upgraded to use Test::Excel v1.35.

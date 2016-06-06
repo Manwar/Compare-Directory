@@ -1,6 +1,7 @@
 package Compare::Directory;
 
-$Compare::Directory::VERSION = '1.21';
+$Compare::Directory::VERSION   = '1.22';
+$Compare::Directory::AUTHORITY = 'cpan:MANWAR';
 
 =head1 NAME
 
@@ -8,7 +9,7 @@ Compare::Directory - Interface to compare directories.
 
 =head1 VERSION
 
-Version 1.21
+Version 1.22
 
 =cut
 
@@ -196,7 +197,7 @@ Mohammad S Anwar, E<lt>mohammad.anwar@yahoo.comE<gt>
 
 =head1 REPOSITORY
 
-L<https://github.com/Manwar/Compare-Directory>
+L<https://github.com/manwar/Compare-Directory>
 
 =head1 BUGS
 
@@ -245,7 +246,7 @@ L<http://search.cpan.org/dist/Compare-Directory/>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright (C) 2010 - 2015 Mohammad S Anwar.
+Copyright (C) 2010 - 2016 Mohammad S Anwar.
 
 This  program  is  free software; you can redistribute it and/or modify it under
 the  terms  of the the Artistic License (2.0). You may obtain a copy of the full
