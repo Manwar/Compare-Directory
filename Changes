@@ -1,5 +1,9 @@
 Revision history for Compare::Directory
 
+1.23  Mon Aug 15 10:00:00 2016
+      - Added missing pre-req Scalar::Util as reported by CPANTS.
+      - Made "SEE ALSO" entries clickable.
+
 1.22  Mon Jun 06 13:35:00 2016
       - Added missing prereq as reported by CPANTS.
       - Updated copyright year information.

@@ -22,6 +22,7 @@ WriteMakefile(
         'File::Compare'     => '1.1003',
         'XML::SemanticDiff' => '1.0',
         'Text::PDF'         => '0.29',
+        'Scalar::Util'      => '1.45',
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Compare-Directory-*' },
