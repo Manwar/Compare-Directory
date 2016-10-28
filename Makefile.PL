@@ -28,6 +28,9 @@ WriteMakefile(
     clean => { FILES => 'Compare-Directory-*' },
     (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
         'meta-spec' => { version => 2 },
+        provides    => {
+            'Compare::Directory' => { file => 'lib/Compare/Directory.pm', version => '1.24' },
+        },
         resources => {
             repository => {
                 type => 'git',
