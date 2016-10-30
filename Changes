@@ -1,5 +1,8 @@
 Revision history for Compare::Directory
 
+1.25  Sun Oct 30 08:50:00 2016
+      - Added test scripts (t/meta-json.t andt t/meta-yml.t).
+
 1.24  Fri Oct 28 07:15:00 2016
       - Added key 'provides' to the Makefile.PL script.
 
